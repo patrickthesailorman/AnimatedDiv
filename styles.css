@@ -1,0 +1,47 @@
+div#container {height:500px;width:500px;}
+
+/*.fa-code {*/
+/*width: 50px;*/
+/*height:50px;*/
+/* background-color: inherit;*/
+/*position:fixed;*/
+    
+/*}*/
+/*.fa-css3 {*/
+/*width: 50px;*/
+/*height:50px;*/
+/* background-color: inherit;*/
+/*position:fixed;*/
+    
+/*}*/
+/*.fa-bold {*/
+/*width: 50px;*/
+/*height:50px;*/
+/* background-color: inherit;*/
+/*position:fixed;*/
+    
+/*}*/
+
+.a {
+width: 50px;
+height:50px;
+ background-color:red;
+position:fixed;
+    
+}
+
+.b {
+width: 50px;
+height:50px;
+ background-color:green;
+position:fixed;
+    
+}
+
+.c {
+width: 50px;
+height:50px;
+ background-color:blue;
+position:fixed;
+    
+}
